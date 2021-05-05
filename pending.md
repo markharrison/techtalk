@@ -1,6 +1,5 @@
 # Azure AppDev - Lunch & Learn
-## 21 May 2021
 
-Teams webinar link info to follow later
+Teams webinar link pending - info to follow later
 
 mark.harrison@microsoft.com 
