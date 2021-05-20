@@ -1,4 +1,4 @@
-# Azure Web PubSub demo  http://aka.ms/appdev-pubsub
+# Azure Web PubSub demo  https://aka.ms/appdev-pubsub
 
 https://azure.github.io/azure-webpubsub/demos/clientpubsub.html
 
