@@ -16,14 +16,15 @@ Mark Harrison | Genady Belenky | Dave Phelps
 -	Accessibility 
 -	Whats new – e.g. Azure Communication Services, Azure Weather Services
 
----
-
-### Future meetings 
-
-#### 21 May 2021
+#### 21 May 2021 - https://aka.ms/appdev-21may21
 
 - Integration Services
 - Logic Apps - the new runtime ... run anywhere / flexible hosting
+- Whats new - e.g. Azure Web PubSub 
+
+---
+
+### Future meetings 
 
 #### 4 June 2021 
 
