@@ -18,6 +18,8 @@ Mark Harrison | Genady Belenky | Dave Phelps
 
 #### 21 May 2021 - https://aka.ms/appdev-21may21
 
+Mark Harrison | Dave Phelps
+
 - Integration Services
 - Logic Apps - the new runtime ... run anywhere / flexible hosting
 - Whats new - e.g. Azure Web PubSub 
