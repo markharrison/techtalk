@@ -1,5 +1,5 @@
 # UK Professional Services Community
-## Azure AppDev - Lunch & Learn
+## Azure AppDev - Tech Talk
 
 ### Previous meetings
 
